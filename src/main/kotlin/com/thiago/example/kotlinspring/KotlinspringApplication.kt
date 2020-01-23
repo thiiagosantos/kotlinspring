@@ -8,5 +8,4 @@ class KotlinspringApplication
 
 fun main(args: Array<String>) {
 	runApplication<KotlinspringApplication>(*args)
-	println("Hello World with Kotlin!")
 }
